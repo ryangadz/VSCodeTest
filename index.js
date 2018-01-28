@@ -3,7 +3,7 @@ const port = process.env.PORT || 1337;
 
 const handler = (req, res) => {
     console.log('Server recieved request. ');
-    res.end('Hello World! from vs code and github!');
+    res.end('Hello World! from vs code and github! yay!!');
 };
 
 const server = http.createServer(handler);
