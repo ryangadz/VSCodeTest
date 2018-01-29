@@ -4,6 +4,11 @@ var debug = require('debug');
 const port = process.env.PORT || 1337;
 var express = require('express');
 var path = require('path');
+var bodyParser = require('body-parser');
+
+app.use(logger('dev'));
+app.use(bodyParser.json());
+app.use(bodyParser.urlencoded({ extended: false }));
 
 var app = express();
 
