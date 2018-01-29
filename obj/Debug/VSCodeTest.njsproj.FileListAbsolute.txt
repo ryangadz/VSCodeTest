@@ -1,3 +1,0 @@
-C:\Users\ryang\OneDrive - gadz gamz 1\Projects\VSCodeTest\obj\Debug\VSCodeTest.njsprojResolveAssemblyReference.cache
-C:\Users\ryang\OneDrive - gadz gamz 1\Projects\VSCodeTest\obj\Debug\VSCodeTest.njsproj.CoreCompileInputs.cache
-C:\Users\ryang\OneDrive - gadz gamz 1\Projects\VSCodeTest\bin\Microsoft.NodejsTools.WebRole.dll
